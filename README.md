@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vandita Khare</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right"  alt="coding" width="400" src="http://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanditakhare&label=Profile%20views&color=0e75b6&style=flat" alt="vanditakhare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanditakhare" alt="vanditakhare" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+
 
 - 📫 How to reach me **vanditakhare252@gmail.com**
 
